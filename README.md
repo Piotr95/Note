@@ -27,10 +27,12 @@ CREATE DATABASE
 ```
 mvn spring-boot:run
 ```
- for  API  usage  examples  go to  http://localhost:8080/swagger-ui.html
+ For  API  usage  examples  go to  http://localhost:8080/swagger-ui.html
  
 # IV Open NoteHistory and run it like in III
- for  API  usage  examples  go to  http://localhost:3333/swagger-ui.html
+
+For  API  usage  examples  go to  http://localhost:3333/swagger-ui.html
 
 # V Test data are initialized  (in NoteBack-end)
+
 # Enjoy :)
